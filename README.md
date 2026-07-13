@@ -4,6 +4,11 @@ A Spring Boot backend that demonstrates **offline UPI payments routed through a 
 
 This repo is the **server side** of that system, plus a software simulator of the mesh so you can demo the whole flow on a single laptop without any real Bluetooth hardware.
 
+## 🚀 Live Demo
+
+**Application:** https://offline-upi-mesh-java.onrender.com/
+
+> **Note:** This project is deployed on Render's free tier. The first request after inactivity may take 30–60 seconds while the application wakes up.
 ---
 
 ## Table of Contents
